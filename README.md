@@ -25,7 +25,7 @@ To empower stakeholders with a visually appealing and easy-to-understand dashboa
 
 # Technologies Used:
 
-# Data Tool: Power BI
-# Data Transformation: Power Query Editor
-# Data Source: Sales dataset of a Super Store
-# Techniques: Data visualization, trend analysis
+## Data Tool: Power BI
+## Data Transformation: Power Query Editor
+## Data Source: Sales dataset of a Super Store
+## Techniques: Data visualization, trend analysis
