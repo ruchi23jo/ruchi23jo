@@ -1,2 +1,1 @@
-#### Python_Sales_Insights_Analyzer
-
+#### Sales Insights Dashboard
